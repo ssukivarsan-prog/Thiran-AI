@@ -1,4 +1,4 @@
-# 🌟 Thiran AI (Jeevika AI) — Multilingual Voice-First Livelihood Intelligence Platform
+# 🌟 Thiran AI  — Multilingual Voice-First Livelihood Intelligence Platform
 
 [![Live Web App](https://img.shields.io/badge/Live_Web_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://thrianaiadmin.netlify.app/)
 [![Download Android APK](https://img.shields.io/badge/Download_APK-Release_v1.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ssukivarsan-prog/Thiran-AI/raw/main/release/app-release.apk)
