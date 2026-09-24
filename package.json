@@ -1,0 +1,23 @@
+{
+  "name": "jeevika-ai-platform",
+  "version": "1.0.0",
+  "description": "Jeevika AI — Multilingual Voice-First Livelihood Intelligence & Support Platform",
+  "private": true,
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:web": "cd web_flutter && flutter run -d chrome --web-port 3000",
+    "dev:mobile": "cd mobile_flutter && flutter run",
+    "seed:backend": "cd backend && npm run seed",
+    "test:backend": "cd backend && npm test",
+    "test:all": "npm run test:backend && cd mobile_flutter && flutter test && cd ../web_flutter && flutter test"
+  },
+  "keywords": [
+    "livelihood",
+    "workforce-tech",
+    "voice-first",
+    "flutter",
+    "gemini"
+  ],
+  "author": "Jeevika AI Team",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,2717 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "phone": "+919000000001",
+      "email": "admin@jeevika.ai",
+      "fullName": "Jeevika Operations Administrator",
+      "role": "ADMINISTRATOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "en",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-support-1",
+      "phone": "+919000000002",
+      "email": "support@jeevika.ai",
+      "fullName": "Shalini Devi (Community Support Lead)",
+      "role": "SUPPORT_WORKER",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-1",
+      "phone": "+919800000010",
+      "email": "mentor.1@jeevika.network",
+      "fullName": "Murugan Sundaram",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-2",
+      "phone": "+919800000011",
+      "email": "mentor.2@jeevika.network",
+      "fullName": "Kavitha Radhakrishnan",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-3",
+      "phone": "+919800000012",
+      "email": "mentor.3@jeevika.network",
+      "fullName": "Dr. Ramesh Balan",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-4",
+      "phone": "+919800000013",
+      "email": "mentor.4@jeevika.network",
+      "fullName": "Revathi Sengupta",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-5",
+      "phone": "+919800000014",
+      "email": "mentor.5@jeevika.network",
+      "fullName": "Praveen Kumar Yadav",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "hi",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-6",
+      "phone": "+919800000015",
+      "email": "mentor.6@jeevika.network",
+      "fullName": "Ananya Deshmukh",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "en",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-7",
+      "phone": "+919800000016",
+      "email": "mentor.7@jeevika.network",
+      "fullName": "Selvakumar Natarajan",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-8",
+      "phone": "+919800000017",
+      "email": "mentor.8@jeevika.network",
+      "fullName": "Fatima Begum",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-9",
+      "phone": "+919800000018",
+      "email": "mentor.9@jeevika.network",
+      "fullName": "Karthikeyan Veerappan",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-mentor-10",
+      "phone": "+919800000019",
+      "email": "mentor.10@jeevika.network",
+      "fullName": "Deepa Narayanan",
+      "role": "MENTOR",
+      "status": "ACTIVE",
+      "preferredLanguage": "ma",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.730Z",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "usr-ben-1",
+      "phone": "+919840112301",
+      "email": "arun.kumar@example.synthetic",
+      "fullName": "Arun Kumar",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-2",
+      "phone": "+919840112302",
+      "email": "meenakshi.sundaram@example.synthetic",
+      "fullName": "Meenakshi Sundaram",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-3",
+      "phone": "+919840112303",
+      "email": "suresh.mani@example.synthetic",
+      "fullName": "Suresh Mani",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-4",
+      "phone": "+919840112304",
+      "email": "lakshmi.priya@example.synthetic",
+      "fullName": "Lakshmi Priya",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-5",
+      "phone": "+919840112305",
+      "email": "praveen.chander@example.synthetic",
+      "fullName": "Praveen Chander",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "hi",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-6",
+      "phone": "+919840112306",
+      "email": "dhanalakshmi.r@example.synthetic",
+      "fullName": "Dhanalakshmi R",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-7",
+      "phone": "+919840112307",
+      "email": "manoj.venkat@example.synthetic",
+      "fullName": "Manoj Venkat",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "te",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-8",
+      "phone": "+919840112308",
+      "email": "fatima.zohra@example.synthetic",
+      "fullName": "Fatima Zohra",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-9",
+      "phone": "+919840112309",
+      "email": "karthik.raja@example.synthetic",
+      "fullName": "Karthik Raja",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-10",
+      "phone": "+919840112310",
+      "email": "santhi.anbarasan@example.synthetic",
+      "fullName": "Santhi Anbarasan",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-11",
+      "phone": "+919840112311",
+      "email": "gopalakrishnan.v@example.synthetic",
+      "fullName": "Gopalakrishnan V",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-12",
+      "phone": "+919840112312",
+      "email": "revathi.mohan@example.synthetic",
+      "fullName": "Revathi Mohan",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-13",
+      "phone": "+919840112313",
+      "email": "bhavani.shankar@example.synthetic",
+      "fullName": "Bhavani Shankar",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "kn",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-14",
+      "phone": "+919840112314",
+      "email": "vigneshwaran.p@example.synthetic",
+      "fullName": "Vigneshwaran P",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-15",
+      "phone": "+919840112315",
+      "email": "chitra.pandian@example.synthetic",
+      "fullName": "Chitra Pandian",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-16",
+      "phone": "+919840112316",
+      "email": "ravi.teja@example.synthetic",
+      "fullName": "Ravi Teja",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "te",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-17",
+      "phone": "+919840112317",
+      "email": "naveen.joseph@example.synthetic",
+      "fullName": "Naveen Joseph",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ml",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-18",
+      "phone": "+919840112318",
+      "email": "poongodi.g@example.synthetic",
+      "fullName": "Poongodi G",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-19",
+      "phone": "+919840112319",
+      "email": "rajesh.sharma@example.synthetic",
+      "fullName": "Rajesh Sharma",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "hi",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-20",
+      "phone": "+919840112320",
+      "email": "sumathi.murugesan@example.synthetic",
+      "fullName": "Sumathi Murugesan",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-ben-21",
+      "phone": "+919840112321",
+      "email": "kishore.kumar@example.synthetic",
+      "fullName": "Kishore Kumar",
+      "role": "BENEFICIARY",
+      "status": "ACTIVE",
+      "preferredLanguage": "en",
+      "isConsented": true,
+      "consentDate": "2026-09-22T14:33:44.731Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usr-8b2e261e",
+      "phone": "+919840112301",
+      "fullName": "Demo User",
+      "role": "EMPLOYER",
+      "status": "ACTIVE",
+      "preferredLanguage": "ta"
+    }
+  ],
+  "beneficiaryProfiles": [
+    {
+      "id": "ben-1",
+      "userId": "usr-ben-1",
+      "fullName": "Arun Kumar",
+      "phone": "+919840112301",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Standard",
+      "currentWork": "House wiring assistant",
+      "previousExperience": "2 years informal domestic electrical repair",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "mobilityConstraints": "Local district travel OK",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 85,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-2",
+      "userId": "usr-ben-2",
+      "fullName": "Meenakshi Sundaram",
+      "phone": "+919840112302",
+      "preferredLanguage": "ta",
+      "educationLevel": "8th Standard",
+      "currentWork": "Home tailoring",
+      "previousExperience": "4 years blouse and salwar stitching",
+      "location": "Tiruppur, Tamil Nadu",
+      "mobilityConstraints": "Within 10km only",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 86,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-3",
+      "userId": "usr-ben-3",
+      "fullName": "Suresh Mani",
+      "phone": "+919840112303",
+      "preferredLanguage": "ta",
+      "educationLevel": "Diploma in Agriculture",
+      "currentWork": "Smallholder farm laborer",
+      "previousExperience": "Cultivation and furrow watering",
+      "location": "Coimbatore, Tamil Nadu",
+      "mobilityConstraints": "Can commute 25km",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 87,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-4",
+      "userId": "usr-ben-4",
+      "fullName": "Lakshmi Priya",
+      "phone": "+919840112304",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Pass",
+      "currentWork": "Elderly caretaker",
+      "previousExperience": "1 year home patient assistance",
+      "location": "Madurai, Tamil Nadu",
+      "mobilityConstraints": "City limits",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 88,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-5",
+      "userId": "usr-ben-5",
+      "fullName": "Praveen Chander",
+      "phone": "+919840112305",
+      "preferredLanguage": "hi",
+      "educationLevel": "ITI Electrician",
+      "currentWork": "Auto garage mechanic helper",
+      "previousExperience": "Lead acid battery replacement",
+      "location": "Hosur, Tamil Nadu",
+      "mobilityConstraints": "Flexible",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 89,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-6",
+      "userId": "usr-ben-6",
+      "fullName": "Dhanalakshmi R",
+      "phone": "+919840112306",
+      "preferredLanguage": "ta",
+      "educationLevel": "12th Pass",
+      "currentWork": "SHG organic manure vendor",
+      "previousExperience": "Community composting",
+      "location": "Thanjavur, Tamil Nadu",
+      "mobilityConstraints": "Local block",
+      "preferredWorkType": "SELF_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 90,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-7",
+      "userId": "usr-ben-7",
+      "fullName": "Manoj Venkat",
+      "phone": "+919840112307",
+      "preferredLanguage": "te",
+      "educationLevel": "10th Pass",
+      "currentWork": "Grocery shop stock boy",
+      "previousExperience": "Shelf stocking and manual ledger",
+      "location": "Salem, Tamil Nadu",
+      "mobilityConstraints": "Commute OK",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 91,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-8",
+      "userId": "usr-ben-8",
+      "fullName": "Fatima Zohra",
+      "phone": "+919840112308",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Standard",
+      "currentWork": "Home snacks maker",
+      "previousExperience": "Homemade savories production",
+      "location": "Dindigul, Tamil Nadu",
+      "mobilityConstraints": "Home based or nearby SHG",
+      "preferredWorkType": "SELF_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 92,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-9",
+      "userId": "usr-ben-9",
+      "fullName": "Karthik Raja",
+      "phone": "+919840112309",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Pass",
+      "currentWork": "Motor rewinding trainee",
+      "previousExperience": "Submersible pump motor winding",
+      "location": "Dharmapuri, Tamil Nadu",
+      "mobilityConstraints": "Open to rural camps",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 93,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-10",
+      "userId": "usr-ben-10",
+      "fullName": "Santhi Anbarasan",
+      "phone": "+919840112310",
+      "preferredLanguage": "ta",
+      "educationLevel": "12th Pass",
+      "currentWork": "Village data entry volunteer",
+      "previousExperience": "Tamil and English typing",
+      "location": "Chennai, Tamil Nadu",
+      "mobilityConstraints": "Work from home or Chennai center",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 94,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-11",
+      "userId": "usr-ben-11",
+      "fullName": "Gopalakrishnan V",
+      "phone": "+919840112311",
+      "preferredLanguage": "ta",
+      "educationLevel": "8th Pass",
+      "currentWork": "Plumbing helper",
+      "previousExperience": "G.I. pipe threading and trench digging",
+      "location": "Vellore, Tamil Nadu",
+      "mobilityConstraints": "Within district",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 95,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-12",
+      "userId": "usr-ben-12",
+      "fullName": "Revathi Mohan",
+      "phone": "+919840112312",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Pass",
+      "currentWork": "Millet flour packing",
+      "previousExperience": "Manual packaging and sealing",
+      "location": "Krishnagiri, Tamil Nadu",
+      "mobilityConstraints": "10km commute",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 96,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-13",
+      "userId": "usr-ben-13",
+      "fullName": "Bhavani Shankar",
+      "phone": "+919840112313",
+      "preferredLanguage": "kn",
+      "educationLevel": "10th Standard",
+      "currentWork": "Boutique tailor",
+      "previousExperience": "Zari and embroidery work",
+      "location": "Kanchipuram, Tamil Nadu",
+      "mobilityConstraints": "Local",
+      "preferredWorkType": "SELF_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 97,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-14",
+      "userId": "usr-ben-14",
+      "fullName": "Vigneshwaran P",
+      "phone": "+919840112314",
+      "preferredLanguage": "ta",
+      "educationLevel": "12th Pass",
+      "currentWork": "Cold storage gatekeeper",
+      "previousExperience": "Temperature log book entry",
+      "location": "Namakkal, Tamil Nadu",
+      "mobilityConstraints": "Can relocate 50km",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 98,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-15",
+      "userId": "usr-ben-15",
+      "fullName": "Chitra Pandian",
+      "phone": "+919840112315",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Pass",
+      "currentWork": "Nursery seedling grafter",
+      "previousExperience": "Polyhouse drip lines and planting",
+      "location": "Karur, Tamil Nadu",
+      "mobilityConstraints": "Within block",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 99,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-16",
+      "userId": "usr-ben-16",
+      "fullName": "Ravi Teja",
+      "phone": "+919840112316",
+      "preferredLanguage": "te",
+      "educationLevel": "10th Standard",
+      "currentWork": "Rural electrician apprentice",
+      "previousExperience": "Single phase line repair",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "mobilityConstraints": "District wide",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 85,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-17",
+      "userId": "usr-ben-17",
+      "fullName": "Naveen Joseph",
+      "phone": "+919840112317",
+      "preferredLanguage": "ml",
+      "educationLevel": "12th Pass",
+      "currentWork": "Ambulance helper",
+      "previousExperience": "Patient transport and stretcher care",
+      "location": "Madurai, Tamil Nadu",
+      "mobilityConstraints": "Flexible hours",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 86,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-18",
+      "userId": "usr-ben-18",
+      "fullName": "Poongodi G",
+      "phone": "+919840112318",
+      "preferredLanguage": "ta",
+      "educationLevel": "10th Pass",
+      "currentWork": "Garment alteration shop",
+      "previousExperience": "Hemming and button hole stitching",
+      "location": "Tiruppur, Tamil Nadu",
+      "mobilityConstraints": "Commute OK",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 87,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-19",
+      "userId": "usr-ben-19",
+      "fullName": "Rajesh Sharma",
+      "phone": "+919840112319",
+      "preferredLanguage": "hi",
+      "educationLevel": "10th Pass",
+      "currentWork": "Delivery rider",
+      "previousExperience": "Smartphone app navigation and scanning",
+      "location": "Salem, Tamil Nadu",
+      "mobilityConstraints": "Two-wheeler available",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 88,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-20",
+      "userId": "usr-ben-20",
+      "fullName": "Sumathi Murugesan",
+      "phone": "+919840112320",
+      "preferredLanguage": "ta",
+      "educationLevel": "8th Pass",
+      "currentWork": "Poultry farm caretaker",
+      "previousExperience": "Feeder cleaning and bio-waste collection",
+      "location": "Thanjavur, Tamil Nadu",
+      "mobilityConstraints": "Within village",
+      "preferredWorkType": "SELF_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 89,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "ben-21",
+      "userId": "usr-ben-21",
+      "fullName": "Kishore Kumar",
+      "phone": "+919840112321",
+      "preferredLanguage": "en",
+      "educationLevel": "Diploma in Mechatronics",
+      "currentWork": "Drone hobbyist & battery repairer",
+      "previousExperience": "Quadcopter flight controller soldering",
+      "location": "Coimbatore, Tamil Nadu",
+      "mobilityConstraints": "State-wide travel",
+      "preferredWorkType": "WAGE_EMPLOYMENT",
+      "internetAccess": true,
+      "completionRate": 90,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk-1",
+      "name": "Drip Irrigation Setup",
+      "category": "Agriculture",
+      "description": "Installing and maintaining micro-drip water delivery networks",
+      "createdAt": "2026-09-22T14:33:44.729Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-2",
+      "name": "Solar PV Inverter Wiring",
+      "category": "Renewable Energy",
+      "description": "Safe DC to AC inverter circuit connection and earthing",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-3",
+      "name": "Commercial Pattern Cutting",
+      "category": "Apparel & Textiles",
+      "description": "Precision template cutting for commercial garment production",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-4",
+      "name": "Basic Patient Vitals Monitoring",
+      "category": "Healthcare Assistance",
+      "description": "Accurate measurement of pulse, BP, temperature, and record keeping",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-5",
+      "name": "E-Rickshaw Battery Maintenance",
+      "category": "Electric Mobility",
+      "description": "Li-ion battery cell balancing and thermal terminal care",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-6",
+      "name": "Organic Vermicomposting",
+      "category": "Agriculture",
+      "description": "Microbial decomposition and earthworm soil amendment preparation",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-7",
+      "name": "Industrial Single Needle Stitching",
+      "category": "Apparel & Textiles",
+      "description": "Operating high-speed industrial lockstitch machines",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-8",
+      "name": "Digital Inventory Barcode Scanning",
+      "category": "Retail & Warehousing",
+      "description": "Using handheld scanners and inventory logging software",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-9",
+      "name": "Customer Grievance Resolution",
+      "category": "Customer Care",
+      "description": "Professional active listening, ticketing, and resolution communication",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-10",
+      "name": "Agricultural Drone Spray Calibration",
+      "category": "Agri-Tech",
+      "description": "Calibrating pesticide nozzles and waypoint flight planning",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-11",
+      "name": "Sanitary Plumbing Rough-in",
+      "category": "Construction",
+      "description": "Laying CPVC and PVC drain waste pipes",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "sk-12",
+      "name": "Food Safety & Hygiene Protocols",
+      "category": "Food Processing",
+      "description": "Adherence to FSSAI packaging and temperature controls",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    }
+  ],
+  "userSkills": [
+    {
+      "id": "usk-1",
+      "userId": "usr-ben-1",
+      "skillId": "sk-2",
+      "skillName": "Solar PV Inverter Wiring",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and 2 years informal domestic electrical repair",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-2",
+      "userId": "usr-ben-2",
+      "skillId": "sk-3",
+      "skillName": "Commercial Pattern Cutting",
+      "proficiency": "ADVANCED",
+      "verificationType": "ORGANIZATION_VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and 4 years blouse and salwar stitching",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-3",
+      "userId": "usr-ben-3",
+      "skillId": "sk-1",
+      "skillName": "Drip Irrigation Setup",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Cultivation and furrow watering",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-4",
+      "userId": "usr-ben-4",
+      "skillId": "sk-4",
+      "skillName": "Basic Patient Vitals Monitoring",
+      "proficiency": "ADVANCED",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and 1 year home patient assistance",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-5",
+      "userId": "usr-ben-5",
+      "skillId": "sk-5",
+      "skillName": "E-Rickshaw Battery Maintenance",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "AI_INFERRED",
+      "evidenceDescription": "Extracted through structured voice interview and Lead acid battery replacement",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-6",
+      "userId": "usr-ben-6",
+      "skillId": "sk-6",
+      "skillName": "Organic Vermicomposting",
+      "proficiency": "ADVANCED",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Community composting",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-7",
+      "userId": "usr-ben-7",
+      "skillId": "sk-8",
+      "skillName": "Digital Inventory Barcode Scanning",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and Shelf stocking and manual ledger",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-8",
+      "userId": "usr-ben-8",
+      "skillId": "sk-12",
+      "skillName": "Food Safety & Hygiene Protocols",
+      "proficiency": "ADVANCED",
+      "verificationType": "AI_INFERRED",
+      "evidenceDescription": "Extracted through structured voice interview and Homemade savories production",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-9",
+      "userId": "usr-ben-9",
+      "skillId": "sk-2",
+      "skillName": "Solar PV Inverter Wiring",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Submersible pump motor winding",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-10",
+      "userId": "usr-ben-10",
+      "skillId": "sk-9",
+      "skillName": "Customer Grievance Resolution",
+      "proficiency": "ADVANCED",
+      "verificationType": "ORGANIZATION_VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Tamil and English typing",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-11",
+      "userId": "usr-ben-11",
+      "skillId": "sk-11",
+      "skillName": "Sanitary Plumbing Rough-in",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and G.I. pipe threading and trench digging",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-12",
+      "userId": "usr-ben-12",
+      "skillId": "sk-12",
+      "skillName": "Food Safety & Hygiene Protocols",
+      "proficiency": "ADVANCED",
+      "verificationType": "AI_INFERRED",
+      "evidenceDescription": "Extracted through structured voice interview and Manual packaging and sealing",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-13",
+      "userId": "usr-ben-13",
+      "skillId": "sk-7",
+      "skillName": "Industrial Single Needle Stitching",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Zari and embroidery work",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-14",
+      "userId": "usr-ben-14",
+      "skillId": "sk-8",
+      "skillName": "Digital Inventory Barcode Scanning",
+      "proficiency": "ADVANCED",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and Temperature log book entry",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-15",
+      "userId": "usr-ben-15",
+      "skillId": "sk-1",
+      "skillName": "Drip Irrigation Setup",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "ORGANIZATION_VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Polyhouse drip lines and planting",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-16",
+      "userId": "usr-ben-16",
+      "skillId": "sk-2",
+      "skillName": "Solar PV Inverter Wiring",
+      "proficiency": "ADVANCED",
+      "verificationType": "AI_INFERRED",
+      "evidenceDescription": "Extracted through structured voice interview and Single phase line repair",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-17",
+      "userId": "usr-ben-17",
+      "skillId": "sk-4",
+      "skillName": "Basic Patient Vitals Monitoring",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Patient transport and stretcher care",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-18",
+      "userId": "usr-ben-18",
+      "skillId": "sk-7",
+      "skillName": "Industrial Single Needle Stitching",
+      "proficiency": "ADVANCED",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and Hemming and button hole stitching",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-19",
+      "userId": "usr-ben-19",
+      "skillId": "sk-8",
+      "skillName": "Digital Inventory Barcode Scanning",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Smartphone app navigation and scanning",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-20",
+      "userId": "usr-ben-20",
+      "skillId": "sk-6",
+      "skillName": "Organic Vermicomposting",
+      "proficiency": "ADVANCED",
+      "verificationType": "SELF_DECLARED",
+      "evidenceDescription": "Extracted through structured voice interview and Feeder cleaning and bio-waste collection",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "usk-21",
+      "userId": "usr-ben-21",
+      "skillId": "sk-10",
+      "skillName": "Agricultural Drone Spray Calibration",
+      "proficiency": "INTERMEDIATE",
+      "verificationType": "VERIFIED",
+      "evidenceDescription": "Extracted through structured voice interview and Quadcopter flight controller soldering",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-1",
+      "title": "Solar PV Installation Technician (Field)",
+      "organizationName": "SunVanguard CleanTech Solutions (Synthetic)",
+      "category": "Renewable Energy",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹18,000 - ₹24,000 / month",
+      "vacancies": 12,
+      "formalRequirements": [
+        "10th Standard or ITI Electrician",
+        "Age 18-35",
+        "Valid two-wheeler license"
+      ],
+      "requiredSkills": [
+        "Solar PV Inverter Wiring"
+      ],
+      "applicationDeadline": "2026-10-30",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-2",
+      "title": "Community Greenhouse Drone Operator",
+      "organizationName": "Gramin Krishi Automation Cooperative (Synthetic)",
+      "category": "Agri-Tech",
+      "location": "Coimbatore / Erode, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹20,000 - ₹26,000 / month",
+      "vacancies": 6,
+      "formalRequirements": [
+        "12th Pass or Diploma",
+        "Basic English or regional literacy"
+      ],
+      "requiredSkills": [
+        "Agricultural Drone Spray Calibration",
+        "Drip Irrigation Setup"
+      ],
+      "applicationDeadline": "2026-11-15",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-3",
+      "title": "Geriatric Care & Home Health Assistant",
+      "organizationName": "Ayush Seva Community Trust (Synthetic)",
+      "category": "Healthcare Assistance",
+      "location": "Madurai, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹16,000 - ₹22,000 / month",
+      "vacancies": 15,
+      "formalRequirements": [
+        "10th Pass",
+        "Certified Caregiver Course completion"
+      ],
+      "requiredSkills": [
+        "Basic Patient Vitals Monitoring"
+      ],
+      "applicationDeadline": "2026-10-25",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-4",
+      "title": "Apparel Finishing & Quality Inspector",
+      "organizationName": "Kaveri EcoWeave Exports (Synthetic)",
+      "category": "Apparel & Textiles",
+      "location": "Tiruppur, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹15,000 - ₹19,500 / month",
+      "vacancies": 25,
+      "formalRequirements": [
+        "8th Pass minimum",
+        "Minimum 6 months industrial stitching"
+      ],
+      "requiredSkills": [
+        "Commercial Pattern Cutting",
+        "Industrial Single Needle Stitching"
+      ],
+      "applicationDeadline": "2026-11-05",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-5",
+      "title": "EV Fleet Terminal Battery Technician",
+      "organizationName": "GreenRide Logistics Network (Synthetic)",
+      "category": "Electric Mobility",
+      "location": "Bengaluru / Hosur",
+      "workMode": "ONSITE",
+      "compensation": "₹22,000 - ₹28,000 / month",
+      "vacancies": 8,
+      "formalRequirements": [
+        "ITI Electrical or Motor Mechanic",
+        "Electrical Safety Certificate"
+      ],
+      "requiredSkills": [
+        "E-Rickshaw Battery Maintenance"
+      ],
+      "applicationDeadline": "2026-11-20",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-6",
+      "title": "Organic Farm Cluster Manager",
+      "organizationName": "Bhoomi Samriddhi FPO (Synthetic)",
+      "category": "Agriculture",
+      "location": "Thanjavur, Tamil Nadu",
+      "workMode": "HYBRID",
+      "compensation": "₹20,000 - ₹25,000 / month",
+      "vacancies": 4,
+      "formalRequirements": [
+        "Diploma in Agriculture or 3+ years progressive farming"
+      ],
+      "requiredSkills": [
+        "Organic Vermicomposting",
+        "Drip Irrigation Setup"
+      ],
+      "applicationDeadline": "2026-12-01",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-7",
+      "title": "Regional Fulfillment Center Associate",
+      "organizationName": "DeshKart Express Logistics (Synthetic)",
+      "category": "Retail & Warehousing",
+      "location": "Salem, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹14,500 - ₹18,000 / month",
+      "vacancies": 30,
+      "formalRequirements": [
+        "10th Pass",
+        "Ability to lift 15kg"
+      ],
+      "requiredSkills": [
+        "Digital Inventory Barcode Scanning"
+      ],
+      "applicationDeadline": "2026-10-18",
+      "status": "CLOSING_SOON",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-8",
+      "title": "Micro-Enterprise Bakery Team Lead",
+      "organizationName": "Shakti Gramin Self Help Alliance (Synthetic)",
+      "category": "Food Processing",
+      "location": "Dindigul, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹15,000 - ₹20,000 / month",
+      "vacancies": 5,
+      "formalRequirements": [
+        "Basic numeracy & literacy",
+        "FSSAI Food Handling Certificate"
+      ],
+      "requiredSkills": [
+        "Food Safety & Hygiene Protocols"
+      ],
+      "applicationDeadline": "2026-11-10",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-9",
+      "title": "Solar Micro-Grid Maintenance Associate",
+      "organizationName": "GramUrja Off-Grid Power (Synthetic)",
+      "category": "Renewable Energy",
+      "location": "Dharmapuri, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹17,000 - ₹22,000 / month",
+      "vacancies": 7,
+      "formalRequirements": [
+        "10th Pass + Basic Electrical training"
+      ],
+      "requiredSkills": [
+        "Solar PV Inverter Wiring"
+      ],
+      "applicationDeadline": "2026-11-12",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-10",
+      "title": "Multilingual Customer Support Representative",
+      "organizationName": "SarvaBhasha BPO Hub (Synthetic)",
+      "category": "Customer Care",
+      "location": "Chennai / Remote",
+      "workMode": "REMOTE",
+      "compensation": "₹18,000 - ₹24,000 / month",
+      "vacancies": 20,
+      "formalRequirements": [
+        "12th Pass",
+        "Fluency in Tamil + Hindi or English"
+      ],
+      "requiredSkills": [
+        "Customer Grievance Resolution"
+      ],
+      "applicationDeadline": "2026-11-01",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-11",
+      "title": "Sanitary Plumbing Assistant",
+      "organizationName": "Nirman Jal Infrastructure (Synthetic)",
+      "category": "Construction",
+      "location": "Vellore, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹16,000 - ₹21,000 / month",
+      "vacancies": 10,
+      "formalRequirements": [
+        "8th Pass",
+        "Physical fitness"
+      ],
+      "requiredSkills": [
+        "Sanitary Plumbing Rough-in"
+      ],
+      "applicationDeadline": "2026-10-31",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-12",
+      "title": "Millets Processing & Packaging Operator",
+      "organizationName": "Shree Anna Agro Cluster (Synthetic)",
+      "category": "Food Processing",
+      "location": "Krishnagiri, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹14,000 - ₹17,500 / month",
+      "vacancies": 14,
+      "formalRequirements": [
+        "10th Pass",
+        "Food hygiene orientation"
+      ],
+      "requiredSkills": [
+        "Food Safety & Hygiene Protocols"
+      ],
+      "applicationDeadline": "2026-11-15",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-13",
+      "title": "Artisan Embroidery & Boutique Stitcher",
+      "organizationName": "Chola Heritage Weaves (Synthetic)",
+      "category": "Apparel & Textiles",
+      "location": "Kanchipuram, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹16,000 - ₹22,000 / month",
+      "vacancies": 8,
+      "formalRequirements": [
+        "Traditional or informal tailoring experience"
+      ],
+      "requiredSkills": [
+        "Industrial Single Needle Stitching",
+        "Commercial Pattern Cutting"
+      ],
+      "applicationDeadline": "2026-11-30",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-14",
+      "title": "Cold-Chain Warehouse Supervisor",
+      "organizationName": "HimGhar Agro Storage (Synthetic)",
+      "category": "Retail & Warehousing",
+      "location": "Namakkal, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹19,000 - ₹25,000 / month",
+      "vacancies": 5,
+      "formalRequirements": [
+        "12th Pass or ITI",
+        "Prior warehouse exposure"
+      ],
+      "requiredSkills": [
+        "Digital Inventory Barcode Scanning"
+      ],
+      "applicationDeadline": "2026-11-25",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "opp-15",
+      "title": "Precision Micro-Irrigation Field Technician",
+      "organizationName": "JalDhara Conservation Alliance (Synthetic)",
+      "category": "Agriculture",
+      "location": "Karur, Tamil Nadu",
+      "workMode": "ONSITE",
+      "compensation": "₹17,500 - ₹23,000 / month",
+      "vacancies": 9,
+      "formalRequirements": [
+        "10th Pass",
+        "Field travel capability"
+      ],
+      "requiredSkills": [
+        "Drip Irrigation Setup"
+      ],
+      "applicationDeadline": "2026-11-18",
+      "status": "OPEN",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": "crs-1",
+      "title": "Government-Aligned Solar PV Technician Certification",
+      "providerName": "National Skill Development Institute (Synthetic)",
+      "category": "Renewable Energy",
+      "location": "Tiruchirappalli Skill Center",
+      "deliveryMode": "HYBRID",
+      "durationWeeks": 6,
+      "capacity": 30,
+      "enrolledCount": 22,
+      "prerequisites": [
+        "10th Pass or basic electrician experience"
+      ],
+      "skillsTaught": [
+        "Solar PV Inverter Wiring"
+      ],
+      "certificationName": "Certified Solar Rooftop Installer (Level 4)",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-2",
+      "title": "Agricultural Drone Pilot Ground School & Calibration",
+      "providerName": "Kisan Drone Academy (Synthetic)",
+      "category": "Agri-Tech",
+      "location": "Coimbatore Campus",
+      "deliveryMode": "IN_PERSON",
+      "durationWeeks": 4,
+      "capacity": 20,
+      "enrolledCount": 16,
+      "prerequisites": [
+        "10th Pass",
+        "Valid Aadhaar ID"
+      ],
+      "skillsTaught": [
+        "Agricultural Drone Spray Calibration"
+      ],
+      "certificationName": "DGCA-Aligned Remote Pilot Micro-Drone Certificate",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-3",
+      "title": "Professional Geriatric & Patient Care Assistant",
+      "providerName": "St. Mary Community Healthcare Institute (Synthetic)",
+      "category": "Healthcare Assistance",
+      "location": "Madurai Health Hub",
+      "deliveryMode": "IN_PERSON",
+      "durationWeeks": 8,
+      "capacity": 25,
+      "enrolledCount": 19,
+      "prerequisites": [
+        "10th Pass",
+        "Empathetic bedside interest"
+      ],
+      "skillsTaught": [
+        "Basic Patient Vitals Monitoring"
+      ],
+      "certificationName": "Certified Home Health Caregiver",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-4",
+      "title": "Industrial High-Speed Apparel Stitching & Finishing",
+      "providerName": "Apparel Training & Design Center (Synthetic)",
+      "category": "Apparel & Textiles",
+      "location": "Tiruppur Textile Complex",
+      "deliveryMode": "IN_PERSON",
+      "durationWeeks": 5,
+      "capacity": 40,
+      "enrolledCount": 35,
+      "prerequisites": [
+        "Basic tailoring familiarity"
+      ],
+      "skillsTaught": [
+        "Industrial Single Needle Stitching",
+        "Commercial Pattern Cutting"
+      ],
+      "certificationName": "Apparel Export Quality Tailor Level 3",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-5",
+      "title": "Light EV Battery Diagnostics & Servicing",
+      "providerName": "Apex E-Mobility Skill Lab (Synthetic)",
+      "category": "Electric Mobility",
+      "location": "Hosur Training Facility",
+      "deliveryMode": "IN_PERSON",
+      "durationWeeks": 6,
+      "capacity": 20,
+      "enrolledCount": 14,
+      "prerequisites": [
+        "Basic electrical or wiring knowledge"
+      ],
+      "skillsTaught": [
+        "E-Rickshaw Battery Maintenance"
+      ],
+      "certificationName": "EV Battery Service Specialist",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-6",
+      "title": "Organic Farming & Bio-Fertilizer Production",
+      "providerName": "Tamil Nadu Rural Livelihood Mission (Synthetic)",
+      "category": "Agriculture",
+      "location": "Thanjavur Agro Park",
+      "deliveryMode": "HYBRID",
+      "durationWeeks": 3,
+      "capacity": 35,
+      "enrolledCount": 28,
+      "prerequisites": [
+        "Interest in organic cultivation"
+      ],
+      "skillsTaught": [
+        "Organic Vermicomposting"
+      ],
+      "certificationName": "Certified Organic Bio-Input Specialist",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-7",
+      "title": "Warehouse Operations & Inventory Management Systems",
+      "providerName": "SupplyChain Skill Council (Synthetic)",
+      "category": "Retail & Warehousing",
+      "location": "Online + Salem Logistics Yard",
+      "deliveryMode": "HYBRID",
+      "durationWeeks": 4,
+      "capacity": 30,
+      "enrolledCount": 21,
+      "prerequisites": [
+        "10th Pass",
+        "Smartphone literacy"
+      ],
+      "skillsTaught": [
+        "Digital Inventory Barcode Scanning"
+      ],
+      "certificationName": "Certified Warehouse Associate",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-8",
+      "title": "Safe Food Production & FSSAI Standards",
+      "providerName": "Rural Entrepreneurship Center (Synthetic)",
+      "category": "Food Processing",
+      "location": "Dindigul Training Hall",
+      "deliveryMode": "IN_PERSON",
+      "durationWeeks": 2,
+      "capacity": 25,
+      "enrolledCount": 20,
+      "prerequisites": [
+        "None"
+      ],
+      "skillsTaught": [
+        "Food Safety & Hygiene Protocols"
+      ],
+      "certificationName": "FoSTaC Food Safety Supervisor",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-9",
+      "title": "Customer Experience & Regional BPO Excellence",
+      "providerName": "Vocational Bridge Foundation (Synthetic)",
+      "category": "Customer Care",
+      "location": "Online Interactive Lab",
+      "deliveryMode": "ONLINE",
+      "durationWeeks": 3,
+      "capacity": 50,
+      "enrolledCount": 42,
+      "prerequisites": [
+        "12th Pass",
+        "Spoken regional fluency"
+      ],
+      "skillsTaught": [
+        "Customer Grievance Resolution"
+      ],
+      "certificationName": "Certified Customer Support Specialist",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "crs-10",
+      "title": "Modern Sanitary Plumbing & Pipe Jointing",
+      "providerName": "Builders Skill Consortium (Synthetic)",
+      "category": "Construction",
+      "location": "Vellore Practical Yard",
+      "deliveryMode": "IN_PERSON",
+      "durationWeeks": 4,
+      "capacity": 25,
+      "enrolledCount": 18,
+      "prerequisites": [
+        "8th Pass"
+      ],
+      "skillsTaught": [
+        "Sanitary Plumbing Rough-in"
+      ],
+      "certificationName": "Certified Plumber General",
+      "status": "OPEN_FOR_ENROLLMENT",
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    }
+  ],
+  "pathways": [
+    {
+      "id": "pth-1",
+      "beneficiaryId": "ben-1",
+      "targetRole": "Solar PV Installation Technician",
+      "currentStage": "TRAIN",
+      "alignmentScore": 75,
+      "satisfiedRequirements": [
+        "10th Standard",
+        "Regional residency satisfied",
+        "Practical skill: Solar PV Inverter Wiring"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 4,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-2",
+      "beneficiaryId": "ben-2",
+      "targetRole": "Apparel Finishing & Quality Inspector",
+      "currentStage": "GAP",
+      "alignmentScore": 76,
+      "satisfiedRequirements": [
+        "8th Standard",
+        "Regional residency satisfied",
+        "Practical skill: Commercial Pattern Cutting"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 5,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-3",
+      "beneficiaryId": "ben-3",
+      "targetRole": "Community Greenhouse Drone Operator",
+      "currentStage": "TRAIN",
+      "alignmentScore": 77,
+      "satisfiedRequirements": [
+        "Diploma in Agriculture",
+        "Regional residency satisfied",
+        "Practical skill: Drip Irrigation Setup"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 6,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-4",
+      "beneficiaryId": "ben-4",
+      "targetRole": "Geriatric Care & Home Health Assistant",
+      "currentStage": "GAP",
+      "alignmentScore": 78,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Basic Patient Vitals Monitoring"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 7,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-5",
+      "beneficiaryId": "ben-5",
+      "targetRole": "EV Fleet Terminal Battery Technician",
+      "currentStage": "TRAIN",
+      "alignmentScore": 79,
+      "satisfiedRequirements": [
+        "ITI Electrician",
+        "Regional residency satisfied",
+        "Practical skill: E-Rickshaw Battery Maintenance"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 8,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-6",
+      "beneficiaryId": "ben-6",
+      "targetRole": "Organic Farm Cluster Manager",
+      "currentStage": "GAP",
+      "alignmentScore": 80,
+      "satisfiedRequirements": [
+        "12th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Organic Vermicomposting"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 9,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-7",
+      "beneficiaryId": "ben-7",
+      "targetRole": "Regional Fulfillment Center Associate",
+      "currentStage": "TRAIN",
+      "alignmentScore": 81,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Digital Inventory Barcode Scanning"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 4,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-8",
+      "beneficiaryId": "ben-8",
+      "targetRole": "Micro-Enterprise Bakery Team Lead",
+      "currentStage": "GAP",
+      "alignmentScore": 82,
+      "satisfiedRequirements": [
+        "10th Standard",
+        "Regional residency satisfied",
+        "Practical skill: Food Safety & Hygiene Protocols"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 5,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-9",
+      "beneficiaryId": "ben-9",
+      "targetRole": "Solar Micro-Grid Maintenance Associate",
+      "currentStage": "TRAIN",
+      "alignmentScore": 83,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Solar PV Inverter Wiring"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 6,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-10",
+      "beneficiaryId": "ben-10",
+      "targetRole": "Multilingual Customer Support Representative",
+      "currentStage": "GAP",
+      "alignmentScore": 84,
+      "satisfiedRequirements": [
+        "12th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Customer Grievance Resolution"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 7,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-11",
+      "beneficiaryId": "ben-11",
+      "targetRole": "Sanitary Plumbing Assistant",
+      "currentStage": "TRAIN",
+      "alignmentScore": 85,
+      "satisfiedRequirements": [
+        "8th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Sanitary Plumbing Rough-in"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 8,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-12",
+      "beneficiaryId": "ben-12",
+      "targetRole": "Millets Processing & Packaging Operator",
+      "currentStage": "GAP",
+      "alignmentScore": 86,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Food Safety & Hygiene Protocols"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 9,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-13",
+      "beneficiaryId": "ben-13",
+      "targetRole": "Artisan Embroidery & Boutique Stitcher",
+      "currentStage": "TRAIN",
+      "alignmentScore": 87,
+      "satisfiedRequirements": [
+        "10th Standard",
+        "Regional residency satisfied",
+        "Practical skill: Industrial Single Needle Stitching"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 4,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-14",
+      "beneficiaryId": "ben-14",
+      "targetRole": "Cold-Chain Warehouse Supervisor",
+      "currentStage": "GAP",
+      "alignmentScore": 88,
+      "satisfiedRequirements": [
+        "12th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Digital Inventory Barcode Scanning"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 5,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-15",
+      "beneficiaryId": "ben-15",
+      "targetRole": "Precision Micro-Irrigation Field Technician",
+      "currentStage": "TRAIN",
+      "alignmentScore": 89,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Drip Irrigation Setup"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 6,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-16",
+      "beneficiaryId": "ben-16",
+      "targetRole": "Solar PV Installation Technician",
+      "currentStage": "GAP",
+      "alignmentScore": 90,
+      "satisfiedRequirements": [
+        "10th Standard",
+        "Regional residency satisfied",
+        "Practical skill: Solar PV Inverter Wiring"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 7,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-17",
+      "beneficiaryId": "ben-17",
+      "targetRole": "Geriatric Care & Home Health Assistant",
+      "currentStage": "TRAIN",
+      "alignmentScore": 91,
+      "satisfiedRequirements": [
+        "12th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Basic Patient Vitals Monitoring"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 8,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-18",
+      "beneficiaryId": "ben-18",
+      "targetRole": "Apparel Finishing & Quality Inspector",
+      "currentStage": "GAP",
+      "alignmentScore": 92,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Industrial Single Needle Stitching"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 9,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-19",
+      "beneficiaryId": "ben-19",
+      "targetRole": "Regional Fulfillment Center Associate",
+      "currentStage": "TRAIN",
+      "alignmentScore": 93,
+      "satisfiedRequirements": [
+        "10th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Digital Inventory Barcode Scanning"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 4,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-20",
+      "beneficiaryId": "ben-20",
+      "targetRole": "Organic Farm Cluster Manager",
+      "currentStage": "GAP",
+      "alignmentScore": 94,
+      "satisfiedRequirements": [
+        "8th Pass",
+        "Regional residency satisfied",
+        "Practical skill: Organic Vermicomposting"
+      ],
+      "missingRequirements": [
+        "Mandatory Safety Certification"
+      ],
+      "nextAction": "Upload proof or schedule skill assessment with mentor",
+      "estimatedWeeks": 5,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "pth-21",
+      "beneficiaryId": "ben-21",
+      "targetRole": "Community Greenhouse Drone Operator",
+      "currentStage": "TRAIN",
+      "alignmentScore": 75,
+      "satisfiedRequirements": [
+        "Diploma in Mechatronics",
+        "Regional residency satisfied",
+        "Practical skill: Agricultural Drone Spray Calibration"
+      ],
+      "missingRequirements": [
+        "Accredited Level-4 Certification",
+        "Practical Field Assessment"
+      ],
+      "nextAction": "Enroll in subsidized certified training module",
+      "estimatedWeeks": 6,
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    }
+  ],
+  "mentors": [
+    {
+      "id": "men-1",
+      "userId": "usr-mentor-1",
+      "name": "Murugan Sundaram",
+      "expertise": [
+        "Solar Rooftop Installation",
+        "Micro-Grid Maintenance",
+        "Electrical Safety"
+      ],
+      "languages": [
+        "Tamil",
+        "English"
+      ],
+      "serviceArea": "Tiruchirappalli & Central TN",
+      "yearsOfExperience": 9,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.9,
+      "menteesCount": 28,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-2",
+      "userId": "usr-mentor-2",
+      "name": "Kavitha Radhakrishnan",
+      "expertise": [
+        "Industrial Apparel Production",
+        "Self-Help Group Handloom",
+        "Pattern Design"
+      ],
+      "languages": [
+        "Tamil",
+        "Malayalam"
+      ],
+      "serviceArea": "Tiruppur & Coimbatore",
+      "yearsOfExperience": 12,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.8,
+      "menteesCount": 44,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-3",
+      "userId": "usr-mentor-3",
+      "name": "Dr. Ramesh Balan",
+      "expertise": [
+        "Organic Farming Certification",
+        "Drip Systems",
+        "Soil Amendment"
+      ],
+      "languages": [
+        "Tamil",
+        "Hindi",
+        "English"
+      ],
+      "serviceArea": "Thanjavur & Delta Region",
+      "yearsOfExperience": 15,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 5,
+      "menteesCount": 52,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-4",
+      "userId": "usr-mentor-4",
+      "name": "Revathi Sengupta",
+      "expertise": [
+        "Elder Care Management",
+        "First Aid",
+        "Palliative Community Care"
+      ],
+      "languages": [
+        "Tamil",
+        "Hindi",
+        "Telugu"
+      ],
+      "serviceArea": "Madurai & South TN",
+      "yearsOfExperience": 8,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.7,
+      "menteesCount": 19,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-5",
+      "userId": "usr-mentor-5",
+      "name": "Praveen Kumar Yadav",
+      "expertise": [
+        "EV Fleet Operations",
+        "Battery Testing",
+        "Auto Electricals"
+      ],
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Kannada"
+      ],
+      "serviceArea": "Bengaluru & Hosur Corridor",
+      "yearsOfExperience": 7,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.9,
+      "menteesCount": 31,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-6",
+      "userId": "usr-mentor-6",
+      "name": "Ananya Deshmukh",
+      "expertise": [
+        "Agri-Drone Navigation",
+        "Sensor Calibration",
+        "Flight Planning"
+      ],
+      "languages": [
+        "English",
+        "Hindi",
+        "Kannada"
+      ],
+      "serviceArea": "Coimbatore & Erode",
+      "yearsOfExperience": 6,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.8,
+      "menteesCount": 15,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-7",
+      "userId": "usr-mentor-7",
+      "name": "Selvakumar Natarajan",
+      "expertise": [
+        "Warehouse Logistics",
+        "Barcode Integration",
+        "Fleet Dispatch"
+      ],
+      "languages": [
+        "Tamil",
+        "Telugu"
+      ],
+      "serviceArea": "Salem & Namakkal",
+      "yearsOfExperience": 11,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.6,
+      "menteesCount": 23,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-8",
+      "userId": "usr-mentor-8",
+      "name": "Fatima Begum",
+      "expertise": [
+        "FSSAI Food Compliance",
+        "Millets Micro-Enterprise",
+        "Packaging"
+      ],
+      "languages": [
+        "Tamil",
+        "Urdu",
+        "English"
+      ],
+      "serviceArea": "Dindigul & Theni",
+      "yearsOfExperience": 10,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.9,
+      "menteesCount": 38,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-9",
+      "userId": "usr-mentor-9",
+      "name": "Karthikeyan Veerappan",
+      "expertise": [
+        "Commercial Plumbing",
+        "Pumping Station Lines",
+        "Sanitary Layouts"
+      ],
+      "languages": [
+        "Tamil",
+        "Kannada"
+      ],
+      "serviceArea": "Vellore & Ranipet",
+      "yearsOfExperience": 14,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.7,
+      "menteesCount": 26,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    },
+    {
+      "id": "men-10",
+      "userId": "usr-mentor-10",
+      "name": "Deepa Narayanan",
+      "expertise": [
+        "Voice Process Quality",
+        "Regional Dialect Training",
+        "Soft Skills"
+      ],
+      "languages": [
+        "Malayalam",
+        "Tamil",
+        "English",
+        "Hindi"
+      ],
+      "serviceArea": "Chennai & Remote",
+      "yearsOfExperience": 8,
+      "availabilityStatus": "AVAILABLE",
+      "verificationStatus": "VERIFIED",
+      "rating": 4.8,
+      "menteesCount": 41,
+      "createdAt": "2026-09-22T14:33:44.730Z",
+      "updatedAt": "2026-09-22T14:33:44.730Z"
+    }
+  ],
+  "mentorRequests": [
+    {
+      "id": "mr-1",
+      "beneficiaryId": "ben-1",
+      "mentorId": "men-1",
+      "beneficiaryName": "Arun Kumar",
+      "topic": "Guidance on Rooftop Solar Inverter Earthing Certification",
+      "message": "Hello Murugan Sir, I am preparing for the Level-4 Solar exam and would appreciate practical tips.",
+      "status": "ACCEPTED",
+      "scheduledDate": "2026-10-05T10:30:00Z",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv-1",
+      "beneficiaryId": "ben-1",
+      "channel": "MOBILE_APP",
+      "language": "ta",
+      "status": "ACTIVE",
+      "summary": "Initial livelihood interview conducted. Expressed strong interest in Solar PV Installation Technician. Recommended skill pathway.",
+      "messages": [
+        {
+          "id": "msg-0-1",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், நான் சோலார் பேனல் வேலை செய்ய விரும்புகிறேன்.",
+          "channel": "MOBILE_APP",
+          "timestamp": "2026-09-22T13:33:44.731Z"
+        },
+        {
+          "id": "msg-0-2",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம் அருண்! உங்கள் மின்சார அனுபவத்தை அடிப்படையாகக் கொண்டு, சோலார் PV தொழில்நுட்பப் பாதை உருவாக்கப்பட்டுள்ளது.",
+          "channel": "MOBILE_APP",
+          "timestamp": "2026-09-22T13:35:24.731Z"
+        }
+      ],
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "conv-2",
+      "beneficiaryId": "ben-2",
+      "channel": "WHATSAPP",
+      "language": "ta",
+      "status": "ACTIVE",
+      "summary": "Initial livelihood interview conducted. Expressed strong interest in Apparel Finishing & Quality Inspector. Recommended skill pathway.",
+      "messages": [
+        {
+          "id": "msg-1-1",
+          "senderId": "usr-ben-2",
+          "senderRole": "BENEFICIARY",
+          "content": "Namaste, I want to grow my tailoring work into a business.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T13:33:44.731Z"
+        },
+        {
+          "id": "msg-1-2",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "We mapped your stitching skills. There are 2 certified apparel pathways matching you.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T13:35:24.731Z"
+        },
+        {
+          "id": "ac025a11-457e-40cf-a0f0-6e44be37a337",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் பயிற்சி தகவல் வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "Just now"
+        },
+        {
+          "id": "441f3d93-ba52-4324-b788-e026c6221413",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. மொபைல் செயலியில் சோலார் பயிற்சியை நீங்கள் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "Just now"
+        },
+        {
+          "id": "c5801dbd-b35a-41e9-aefa-17dc5a94e178",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் பயிற்சி தகவல் வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "Just now"
+        },
+        {
+          "id": "a8f0ef42-0b26-43d3-8926-bd662c68db8b",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. மொபைல் செயலியில் சோலார் பயிற்சியை நீங்கள் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "Just now"
+        },
+        {
+          "id": "4fb03875-0be8-460e-8156-231fc2c85c47",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் பயிற்சி தகவல் வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "Just now"
+        },
+        {
+          "id": "1d1e3dc4-3c20-4be5-85df-eb783fc1fee4",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. மொபைல் செயலியில் சோலார் பயிற்சியை நீங்கள் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "Just now"
+        }
+      ],
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "conv-3",
+      "beneficiaryId": "ben-3",
+      "channel": "IVR",
+      "language": "ta",
+      "status": "ACTIVE",
+      "summary": "Initial livelihood interview conducted. Expressed strong interest in Community Greenhouse Drone Operator. Recommended skill pathway.",
+      "messages": [
+        {
+          "id": "msg-2-1",
+          "senderId": "usr-ben-3",
+          "senderRole": "BENEFICIARY",
+          "content": "Namaste, I want to grow my tailoring work into a business.",
+          "channel": "IVR",
+          "timestamp": "2026-09-22T13:33:44.731Z"
+        },
+        {
+          "id": "msg-2-2",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "We mapped your stitching skills. There are 2 certified apparel pathways matching you.",
+          "channel": "IVR",
+          "timestamp": "2026-09-22T13:35:24.731Z"
+        }
+      ],
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "conv-4",
+      "beneficiaryId": "ben-4",
+      "channel": "IVR",
+      "language": "ta",
+      "status": "ESCALATED_TO_HUMAN",
+      "escalationReason": "Beneficiary requested guidance on transport subsidy documents",
+      "summary": "Initial livelihood interview conducted. Expressed strong interest in Geriatric Care & Home Health Assistant. Recommended skill pathway.",
+      "messages": [
+        {
+          "id": "msg-3-1",
+          "senderId": "usr-ben-4",
+          "senderRole": "BENEFICIARY",
+          "content": "Namaste, I want to grow my tailoring work into a business.",
+          "channel": "IVR",
+          "timestamp": "2026-09-22T13:33:44.731Z"
+        },
+        {
+          "id": "msg-3-2",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "We mapped your stitching skills. There are 2 certified apparel pathways matching you.",
+          "channel": "IVR",
+          "timestamp": "2026-09-22T13:35:24.731Z"
+        }
+      ],
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "id": "conv-5",
+      "beneficiaryId": "ben-5",
+      "channel": "IVR",
+      "language": "hi",
+      "status": "ACTIVE",
+      "summary": "Initial livelihood interview conducted. Expressed strong interest in EV Fleet Terminal Battery Technician. Recommended skill pathway.",
+      "messages": [
+        {
+          "id": "msg-4-1",
+          "senderId": "usr-ben-5",
+          "senderRole": "BENEFICIARY",
+          "content": "Namaste, I want to grow my tailoring work into a business.",
+          "channel": "IVR",
+          "timestamp": "2026-09-22T13:33:44.731Z"
+        },
+        {
+          "id": "msg-4-2",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "We mapped your stitching skills. There are 2 certified apparel pathways matching you.",
+          "channel": "IVR",
+          "timestamp": "2026-09-22T13:35:24.731Z"
+        }
+      ],
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z"
+    },
+    {
+      "beneficiaryId": "ben-1",
+      "channel": "WHATSAPP",
+      "language": "ta",
+      "status": "ACTIVE",
+      "messages": [
+        {
+          "id": "e95a310f-20e9-43ab-974d-2cf3112f9599",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T14:38:25.530Z"
+        },
+        {
+          "id": "4852a14c-cb72-44b4-a26b-d5849c348b20",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T14:38:26.130Z"
+        },
+        {
+          "id": "079c6c00-6e6e-4c11-97b0-b7ed9259781e",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T14:58:14.574Z"
+        },
+        {
+          "id": "37683b83-2bbd-4b50-8cc0-863edd7c5f5d",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T14:58:15.174Z"
+        },
+        {
+          "id": "10f4539c-e0e8-48f4-8707-fbe4cc89f9fe",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T15:05:03.285Z"
+        },
+        {
+          "id": "ac8e00ac-895e-469e-8c45-35722ba77a06",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-22T15:05:03.885Z"
+        },
+        {
+          "id": "f1738867-89bc-4cd3-bd4f-5533d01210be",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T04:34:39.118Z"
+        },
+        {
+          "id": "3e490d6c-89b4-4426-83e6-56425c627bc8",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T04:34:39.718Z"
+        },
+        {
+          "id": "a197759f-2311-4927-bfad-aa7d4b36c266",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T04:58:39.002Z"
+        },
+        {
+          "id": "43ba7398-4f32-4e88-a556-579bf5cebe16",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T04:58:39.602Z"
+        },
+        {
+          "id": "12e680d1-ab39-4af1-a023-7f69b8e2510e",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T06:03:35.359Z"
+        },
+        {
+          "id": "994d0ae9-89cf-4d5c-b411-787fe6255212",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T06:03:35.959Z"
+        },
+        {
+          "id": "a4290e46-f74a-4c26-bb5c-14ccdf5e67b6",
+          "senderId": "usr-ben-1",
+          "senderRole": "BENEFICIARY",
+          "content": "வணக்கம், எனக்கு சோலார் வேலை வேண்டும்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T06:10:02.097Z"
+        },
+        {
+          "id": "6122bbe5-e8eb-4dfc-b0e8-dad0ec78a9a0",
+          "senderId": "ai-gateway",
+          "senderRole": "AI",
+          "content": "வணக்கம்! Jeevika AI மூலம் உங்கள் தகவல் பெறப்பட்டது. நீங்கள் சோலார் மற்றும் தொழிற்கல்வி பயிற்சிகளை மொபைல் செயலியில் காணலாம்.",
+          "channel": "WHATSAPP",
+          "timestamp": "2026-09-24T06:10:02.697Z"
+        }
+      ],
+      "id": "b5a26e68-cb55-48c5-b791-e84f37c4c7eb",
+      "createdAt": "2026-09-22T14:38:25.528Z",
+      "updatedAt": "2026-09-24T06:10:02.097Z"
+    }
+  ],
+  "supportTickets": [
+    {
+      "id": "tkt-1",
+      "beneficiaryId": "ben-4",
+      "beneficiaryName": "Lakshmi Priya",
+      "channel": "MOBILE_APP",
+      "subject": "Transport Subsidy Scheme Guidance",
+      "reason": "Beneficiary requested information on rural bus pass concession for Madurai care center training.",
+      "status": "RESOLVED",
+      "assignedTo": "usr-support-1",
+      "createdAt": "2026-09-22T14:33:44.731Z",
+      "updatedAt": "2026-09-22T14:33:44.731Z",
+      "notes": "Counselor provided contact for district transport pass."
+    }
+  ],
+  "auditLogs": [
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "7b549d28-2a89-4509-b49c-a68987fa3d23",
+      "createdAt": "2026-09-22T14:38:25.522Z",
+      "updatedAt": "2026-09-22T14:38:25.522Z"
+    },
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "cb2d230e-3a5e-41eb-8aa3-06229a77016e",
+      "createdAt": "2026-09-22T14:58:14.569Z",
+      "updatedAt": "2026-09-22T14:58:14.569Z"
+    },
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "aab765da-497b-4e83-a814-d4d1475b1dc0",
+      "createdAt": "2026-09-22T15:05:03.280Z",
+      "updatedAt": "2026-09-22T15:05:03.280Z"
+    },
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "6c160803-88a1-4380-a4b8-9ce6a41a4fda",
+      "createdAt": "2026-09-24T04:34:39.113Z",
+      "updatedAt": "2026-09-24T04:34:39.113Z"
+    },
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "f44872a8-5239-4718-b90b-18072680a968",
+      "createdAt": "2026-09-24T04:58:38.993Z",
+      "updatedAt": "2026-09-24T04:58:38.993Z"
+    },
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "4243da0b-cc01-4a4a-8772-72486595d2d7",
+      "createdAt": "2026-09-24T06:03:35.345Z",
+      "updatedAt": "2026-09-24T06:03:35.345Z"
+    },
+    {
+      "actorId": "usr-ben-1",
+      "actorRole": "BENEFICIARY",
+      "action": "DIRECT_LOGIN",
+      "resource": "users",
+      "details": "Direct login for role BENEFICIARY",
+      "id": "6169f635-3148-45b4-a590-1ed35cbf24da",
+      "createdAt": "2026-09-24T06:10:02.092Z",
+      "updatedAt": "2026-09-24T06:10:02.092Z"
+    }
+  ]
+}

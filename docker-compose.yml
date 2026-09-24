@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: jeevika-backend
+    ports:
+      - "4000:4000"
+    environment:
+      - PORT=4000
+      - NODE_ENV=production
+      - JWT_SECRET=jeevika-ai-super-secure-production-secret-2026
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_MODEL=gemini-3.8-flash-hi
+      - WHATSAPP_WEBHOOK_VERIFY_TOKEN=jeevika_verify_token_2026
+    volumes:
+      - ./backend/data:/app/data
+    restart: unless-stopped

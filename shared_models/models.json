@@ -1,0 +1,40 @@
+{
+  "system": "Jeevika AI",
+  "version": "1.0.0",
+  "roles": [
+    "BENEFICIARY",
+    "MENTOR",
+    "TRAINING_PROVIDER",
+    "EMPLOYER",
+    "SUPPORT_WORKER",
+    "ADMINISTRATOR"
+  ],
+  "supportedLanguages": [
+    { "code": "en", "name": "English", "native": "English" },
+    { "code": "ta", "name": "Tamil", "native": "தமிழ்" },
+    { "code": "hi", "name": "Hindi", "native": "हिंदी" },
+    { "code": "te", "name": "Telugu", "native": "తెలుగు" },
+    { "code": "kn", "name": "Kannada", "native": "ಕನ್ನಡ" },
+    { "code": "ml", "name": "Malayalam", "native": "മലയാളം" }
+  ],
+  "skillVerificationTypes": [
+    "VERIFIED",
+    "SELF_DECLARED",
+    "AI_INFERRED",
+    "ORGANIZATION_VERIFIED"
+  ],
+  "pathwayStages": [
+    "CURRENT",
+    "GAP",
+    "TRAIN",
+    "ASSESS",
+    "CERTIFY",
+    "APPLY"
+  ],
+  "communicationChannels": [
+    "MOBILE_APP",
+    "WEB_CHAT",
+    "WHATSAPP",
+    "IVR"
+  ]
+}
