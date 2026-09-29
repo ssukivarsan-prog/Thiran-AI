@@ -1,6 +1,6 @@
 # 🌟 Thiran AI  — Multilingual Voice-First Livelihood Intelligence Platform
 
-[![Live Web App](https://img.shields.io/badge/Live_Web_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://thrianaiadmin.netlify.app/)
+[![Live Web App](https://img.shields.io/badge/Live_Web_App-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://thiranaiadminweb.netlify.app/)
 [![Download Android APK](https://img.shields.io/badge/Download_APK-Release_v1.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ssukivarsan-prog/Thiran-AI/raw/main/release/app-release.apk)
 [![Flutter](https://img.shields.io/badge/Flutter-3.41+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
