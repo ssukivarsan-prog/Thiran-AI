@@ -16,7 +16,7 @@ Reviewers and evaluators can immediately access and test the platform using the 
 
 | Platform | Access Link | Description |
 | :--- | :--- | :--- |
-| 🌐 **Live Web Operations Portal** | [**👉 Open Web Admin Portal (Netlify)**](https://thrianaiadmin.netlify.app/) | Operations and program administration dashboard deployed live on Netlify with preloaded data and live speech capabilities. |
+| 🌐 **Live Web Operations Portal** | [**👉 Open Web Admin Portal (Netlify)**](https://thiranaiadminweb.netlify.app/) | Operations and program administration dashboard deployed live on Netlify with preloaded data and live speech capabilities. |
 | 📱 **Android Mobile Application (APK)** | [**⬇️ Download Android Release APK (48.3 MB)**](https://github.com/ssukivarsan-prog/Thiran-AI/raw/main/release/app-release.apk) | Production release APK. Direct download and install on any Android 8.0+ device to test live voice input, onboarding, pathways, and mentorship. |
 | 📂 **APK File in Repository** | [`release/app-release.apk`](release/app-release.apk) | Direct access to the release binary directly stored in this repository. |
 
